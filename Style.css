@@ -1,0 +1,29 @@
+
+/* Main background container */
+.row.full-height-section.rollercoaster-background.marketing-background-1 {
+  background-image: url("https://images.rbxcdn.com/e942d5c326e104bddf1d2c8ce3e0e9a7.png") !important;
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+
+
+  background-color: transparent !important;
+  box-shadow: none !important;
+  filter: none !important;
+}
+
+
+.row.full-height-section.rollercoaster-background.marketing-background-1::before,
+.row.full-height-section.rollercoaster-background.marketing-background-1::after {
+  background: none !important;
+  content: none !important;
+}
+
+
+.marketing-background-1 {
+  background-image: url("https://images.rbxcdn.com/e942d5c326e104bddf1d2c8ce3e0e9a7.png") !important;
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-color: transparent !important;
+}
